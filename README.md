@@ -1,5 +1,4 @@
-### To clone this repo to your computer:
-- In the terminal run:
+### To clone this repo to your computer run the following command in the terminal:
   ```bash
-  git clone
+  git clone git@github.com:OGsoundFX/ajax-lecture-2172.git
   ```
